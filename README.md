@@ -3,9 +3,9 @@ MNDOT2ArcMap
 
 ### Extract live Minneapolis traffic station data and plot it directly into Arcmap
 
-##### This tool is currently in development and requires 2 things:
+##### This tool requires 2 things:
  1. [Xml2CSV-conv](https://code.google.com/p/xml2csv-conv/) (append to PATH or keep within mndot2arcmap directory)
- 2. And of course, the proprietary software, ArcGIS
+ 2. And of course, ArcGIS
 
 ##### To use this script:
   1. Create an mxd with the file StationPoints feature class as a layer within your dataview
